@@ -1,0 +1,6 @@
+# sparktext: generate ⡠⠔⠊ sparklines in text
+
+This is a simple Rust library for generating sparklines in text using Unicode
+Braille characters.
+
+See [the crate documentation](src/lib.rs) for more information and examples.
